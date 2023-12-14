@@ -1,4 +1,3 @@
-# social_media_health_check
 # coen281-proj
 
 ## Steps to run the project
